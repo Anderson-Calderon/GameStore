@@ -1,0 +1,6 @@
+/.srv/*
+!/.srv/custom.ini
+
+/themes/twentytwentyfive
+/themes/twentytwentyfour
+/themes/twentytwentythree
